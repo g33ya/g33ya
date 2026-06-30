@@ -24,19 +24,23 @@
       <img src="./assets/polaroids/soundmate.png" width="200">
     </td>
     <td align="center">
+      <a href="https://github.com/emmaframpton/Call-Companion">
       <img src="./assets/polaroids/callcompanion.png" width="200">
+      </a>  
     </td>
     <td align="center">
+      <a href="https://github.com/g33ya/task-dashboard">
       <img src="./assets/polaroids/tasknest.png" width="200">
+      </a>  
     </td>
   </tr>
 </table>
 
 #### 🍎 AI Insights
-built during my Apple internship to automate qualitative test analysis using LLMs, transforming hours of manual review into seconds.
+(private) built during my Apple internship to automate qualitative test analysis using LLMs, transforming hours of manual review into seconds.
 
 #### 🎵 SoundMate
-a full-stack social platform centered around discovering people through shared music taste.
+(private) a full-stack social platform centered around discovering people through shared music taste.
 
 #### 📱 Call Companion
 an accessibility-focused mobile application that helps users keep track of important phone conversations.
