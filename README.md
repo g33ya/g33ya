@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="900">
+  <img src="./assets/namebanner.png" width="500">
 </p>
 
 # 🌷software engineer
@@ -13,11 +13,24 @@
 - learning system design
 - **looking for new grad swe opportunities!**
 
-<p align="center">
-<img src="./assets/paper-divider.png" width="600">
-</p>
-
 ## ✂️ featured projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/polaroids/aiinsights.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/polaroids/soundmate.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/polaroids/callcompanion.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/polaroids/tasknest.png" width="200">
+    </td>
+  </tr>
+</table>
 
 #### 🍎 AI Insights
 built during my Apple internship to automate qualitative test analysis using LLMs, transforming hours of manual review into seconds.
@@ -31,10 +44,6 @@ an accessibility-focused mobile application that helps users keep track of impor
 #### 🪺 TaskNest
 a productivity app focused on thoughtful organization and clean user experience.
 
-<p align="center">
-<img src="./assets/paper-divider.png" width="600">
-</p>
-
 ## 🖍️ favorite tools
 
 **Languages**
@@ -47,15 +56,12 @@ a productivity app focused on thoughtful organization and clean user experience.
 
 **Backend**
 
-`Node.js` `PostgreSQL` `REST APIs`
+`Node.js` `REST APIs`
 
 **Currently Learning**
 
 `SwiftUI` `System Design` `AI Engineering`
 
-<p align="center">
-<img src="./assets/paper-divider.png" width="600">
-</p>
 
 ## 🌼 around the internet
 
