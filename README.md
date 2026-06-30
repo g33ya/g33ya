@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/namebanner.png" width="500">
+  <img src="./assets/namebanner.png" width="300">
 </p>
 
 # 🌷software engineer
