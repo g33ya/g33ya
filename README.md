@@ -37,10 +37,10 @@
 </table>
 
 #### 🍎 AI Insights
-(private) built during my Apple internship to automate qualitative test analysis using LLMs, transforming hours of manual review into seconds.
+*(private)* built during my Apple internship to automate qualitative test analysis using LLMs, transforming hours of manual review into seconds.
 
 #### 🎵 SoundMate
-(private) a full-stack social platform centered around discovering people through shared music taste.
+*(private)* a full-stack social platform centered around discovering people through shared music taste.
 
 #### 📱 Call Companion
 an accessibility-focused mobile application that helps users keep track of important phone conversations.
