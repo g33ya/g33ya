@@ -8,7 +8,7 @@
 
 ## 🙇‍♀️ currently working on
 
-- building my first SwiftUI app
+- building a React WebApp for trip planning
 - exploring AI-powered applications
 - learning system design
 - **looking for new grad swe opportunities!**
@@ -64,7 +64,7 @@ a productivity app focused on thoughtful organization and clean user experience.
 
 **Currently Learning**
 
-`SwiftUI` `System Design` `AI Engineering`
+`Full-stack Development` `System Design` `AI Engineering`
 
 
 ## 🌼 around the internet
